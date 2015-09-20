@@ -1,0 +1,26 @@
+{
+  "name": "array-flatten",
+  "version": "0.0.1",
+  "description": "Module to flatten Array in single dimension",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudesh-poojari/array-flatten.git"
+  },
+  "keywords": [
+    "Array"
+  ],
+  "author": "Sudesh Poojari <sud3sh.p00jari@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudesh-poojari/array-flatten/issues"
+  },
+  "homepage": "https://github.com/sudesh-poojari/array-flatten#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
+}
