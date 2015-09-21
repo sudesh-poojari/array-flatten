@@ -22,7 +22,7 @@ class ArrayUtil {
 		for (var value of arrayData) {
 
 			if (Array.isArray(value)) {
-				tmpFlattenedArray = this.flatten(value, flattenedArray);
+				tmpFlattenedArray = this.flatten(value);
 				flattenedArray = flattenedArray.concat(tmpFlattenedArray);
 				continue;
 			}
