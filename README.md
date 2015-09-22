@@ -1,5 +1,5 @@
 # Array Flatten
-Simple module to flatten multi dimensional array into single dimension array
+NodeJS application module to flatten multi dimensional array into single dimension array
 
 e.g. [[1,2,[3]],4] -> [1,2,3,4]
 
